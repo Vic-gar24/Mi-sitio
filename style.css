@@ -15,7 +15,7 @@ body.dark-mode {
 
 /* Encabezado */
 .header {
-    background-color: #1e1e2f;
+    background-color: #17176d;
     color: white;
     text-align: center;
     padding: 40px 20px;
@@ -91,7 +91,7 @@ form {
 input, button[type="submit"] {
     padding: 12px;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #b99797;
     font-size: 16px;
 }
 

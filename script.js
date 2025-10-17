@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Mostrar alerta al enviar el formulario
   form.addEventListener('submit', (event) => {
     event.preventDefault();
-    alert('Se ha enviado el mensaje correctamente ✅');
+    alert('Se ha enviado el mensaje correctamente ');
     form.reset();
   });
 

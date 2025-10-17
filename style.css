@@ -15,7 +15,7 @@ body.dark-mode {
 
 /* Encabezado */
 .header {
-    background-color: #17176d;
+    background-color: #131347;
     color: white;
     text-align: center;
     padding: 40px 20px;
@@ -96,14 +96,14 @@ input, button[type="submit"] {
 }
 
 button[type="submit"] {
-    background-color: #007bff;
+    background-color: #38516b;
     color: white;
     cursor: pointer;
     border: none;
 }
 
 button[type="submit"]:hover {
-    background-color: #0056b3;
+    background-color: #2d4d6f;
 }
 
 /* Pie de página */
@@ -117,7 +117,7 @@ button[type="submit"]:hover {
 
 /* Ajustes para modo oscuro */
 body.dark-mode .header {
-    background-color: #333;
+    background-color: #080808;
 }
 
 body.dark-mode .tarjeta {
